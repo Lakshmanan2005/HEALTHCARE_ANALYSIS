@@ -19,13 +19,13 @@ It follows a complete data pipeline:
 
 | Tool | Purpose |
 |------|--------|
-| 🐍 Python (Pandas, NumPy) | Data cleaning, preprocessing, feature engineering |
-| 🗄 SQL | Data extraction, aggregation, KPI calculations |
-| 📊 Power BI | Dashboard creation, DAX measures, visualization |
+| Python (Pandas, NumPy) | Data cleaning, preprocessing, feature engineering |
+| SQL | Data extraction, aggregation, KPI calculations |
+| Power BI | Dashboard creation, DAX measures, visualization |
 
 ---
 
-## 📂 Dataset Features  
+## Dataset Features  
 - Patient_ID, Name, Age, Age_Group, Gender  
 - BMI, BP_Systolic, BP_Diastolic  
 - Diabetes, Diabetes_Flag  
@@ -34,7 +34,7 @@ It follows a complete data pipeline:
 
 ---
 
-## 🔄 Data Pipeline  
+##  Data Pipeline  
 
 1. **Python**
    - Removed null values
@@ -59,7 +59,7 @@ It follows a complete data pipeline:
 
 ---
 
-## 🎯 Project Objectives  
+##  Project Objectives  
 
 - Calculate:
   - Total Patients  
@@ -74,7 +74,7 @@ It follows a complete data pipeline:
 
 ---
 
-## 📊 Key KPIs  
+##  Key KPIs  
 
 | KPI | Description |
 |-----|------------|
@@ -87,7 +87,7 @@ It follows a complete data pipeline:
 
 ---
 
-## 🧮 Sample SQL Queries  
+##  Sample SQL Queries  
 
 ```sql
 -- Total Patients
