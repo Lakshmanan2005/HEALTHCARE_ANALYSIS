@@ -1,12 +1,11 @@
-# 🏥 Healthcare Patient Risk Analysis Dashboard  
+# Healthcare Patient Risk Analysis Dashboard  
 **Using Python, SQL & Power BI**
 
 An end-to-end healthcare analytics project that combines **Python for data cleaning**, **SQL for querying & KPI generation**, 
 and **Power BI for interactive visualization** to analyze diabetes trends and patient health risks.
 
----
 
-## 📌 Project Overview  
+# Project Overview  
 This project analyzes healthcare patient data to:
 - Identify diabetes prevalence
 - Detect high-risk patients
@@ -16,9 +15,7 @@ This project analyzes healthcare patient data to:
 It follows a complete data pipeline:
 **Python → SQL → Power BI**
 
----
-
-## 🛠 Tools & Technologies  
+##  Tools & Technologies  
 
 | Tool | Purpose |
 |------|--------|
